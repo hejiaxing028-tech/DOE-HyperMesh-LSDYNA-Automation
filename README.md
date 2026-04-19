@@ -201,5 +201,4 @@ This framework can be extended to:
 This project supports:
 
 * Parametric FE modeling
-* Train crash simulation research
 * DOE-driven optimization workflows
