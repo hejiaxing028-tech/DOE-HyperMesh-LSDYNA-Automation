@@ -183,24 +183,6 @@ main
 
 ---
 
-## ⚠️ Notes
-
-* Ensure `params.txt` is in the same directory as the Tcl script
-* Parameter order must be consistent between MATLAB and Tcl
-* Path strings must be correctly escaped
-
-Common error:
-
-```
-File curve.k does not exist
-```
-
-Check:
-
-* Output directory
-* File copy logic in Tcl
-
----
 
 ## 🧩 Extending the Framework
 
